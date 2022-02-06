@@ -4,7 +4,7 @@ You have a non-empty set s, and you have to execute N commands given in N lines.
 
 The commands will be pop, remove and discard.
 
-'''
+```
 Input Format
 The first line contains integer n, the number of elements in the set s.
 The second line contains n space separated elements of set s. All of the elements are non-negative integers, less than or equal to 9.
@@ -16,9 +16,9 @@ Constraints
 0 < N < 20
 Output Format
 Print the sum of the elements of set s on a single line.
-'''
+```
 
-'''
+```
 Sample Input
 
 9
@@ -34,10 +34,10 @@ discard 6
 remove 5
 pop
 discard 5
-'''
+```
 
-'''
+```
 Sample Output
 
 4
-'''
+```
