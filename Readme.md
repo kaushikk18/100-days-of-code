@@ -27,7 +27,7 @@ print: Print the array.
 Output:
 [1, 3, 2]
 
-'''
+```
 
 Input Format
 The first line contains an integer, n, denoting the number of commands.
@@ -39,9 +39,9 @@ The elements added to the list must be integers.
 Output Format
 For each command of type print, print the list on a new line.
 
-'''
+```
 
-'''
+```
 
 Sample Input 0:
 
@@ -65,4 +65,4 @@ Sample Output 0:
 [1, 5, 9, 10]
 [9, 5, 1]
 
-'''
+```
