@@ -28,8 +28,6 @@ def reverseArray(a):
     return dummy_array    
         
         
-   
-
 if __name__ == '__main__':
     fptr = open(os.environ['OUTPUT_PATH'], 'w')
 
