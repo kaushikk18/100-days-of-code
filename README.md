@@ -9,4 +9,4 @@
 - Day 7 - Function(leapyear or not) - <a href="https://www.hackerrank.com/challenges/write-a-function/problem?isFullScreen=true">Hackerrank</a>
 - Day 8 - What’s Your Name? - <a href="https://www.hackerrank.com/challenges/whats-your-name/problem?isFullScreen=true">Hackerrank</a>
 - Day 9 - String Mutations - <a href="https://www.hackerrank.com/challenges/python-mutations/problem?isFullScreen=true">Hackerrank</a>
-- Day 10 - Caeaar cipher(encoding method)
+- Day 10 - Caesar cipher(encoding method)
