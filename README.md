@@ -10,3 +10,4 @@
 - Day 8 - What’s Your Name? - <a href="https://www.hackerrank.com/challenges/whats-your-name/problem?isFullScreen=true">Hackerrank</a>
 - Day 9 - String Mutations - <a href="https://www.hackerrank.com/challenges/python-mutations/problem?isFullScreen=true">Hackerrank</a>
 - Day 10 - Caesar cipher(encoding method)
+- Day 11 - Array Reversal - <a href="https://www.hackerrank.com/challenges/arrays-ds/problem?isFullScreen=true">Hackerrank</a>
