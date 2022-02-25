@@ -11,3 +11,4 @@
 - Day 9 - String Mutations - <a href="https://www.hackerrank.com/challenges/python-mutations/problem?isFullScreen=true">Hackerrank</a>
 - Day 10 - Caesar cipher(encoding method)
 - Day 11 - Array Reversal - <a href="https://www.hackerrank.com/challenges/arrays-ds/problem?isFullScreen=true">Hackerrank</a>
+- Day 12 - Text wrap - <a href="https://www.hackerrank.com/challenges/text-wrap/problem?isFullScreen=true">Hackerrank</a>
