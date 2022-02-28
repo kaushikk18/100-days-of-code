@@ -12,3 +12,5 @@
 - Day 10 - Caesar cipher(encoding method)
 - Day 11 - Array Reversal - <a href="https://www.hackerrank.com/challenges/arrays-ds/problem?isFullScreen=true">Hackerrank</a>
 - Day 12 - Text wrap - <a href="https://www.hackerrank.com/challenges/text-wrap/problem?isFullScreen=true">Hackerrank</a>
+- Day 13 - Set Average - <a href="https://www.hackerrank.com/challenges/py-introduction-to-sets/problem?isFullScreen=true">Hackerrank</a>
+
