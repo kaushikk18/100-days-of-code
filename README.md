@@ -17,3 +17,4 @@
 - Day 15 - Set intersection - <a href="https://www.hackerrank.com/challenges/py-set-intersection-operation/problem?isFullScreen=true">Hackerrank</a>
 - Day 16 - Set difference - <a href="https://www.hackerrank.com/challenges/py-set-difference-operation/problem?isFullScreen=true">Hackerrank</a>
 - Day 17 - Reversing a string \*
+- Day 18 - Palindrome or not \*
