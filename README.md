@@ -20,3 +20,4 @@
 - Day 18 - Palindrome or not \*
 - Day 19 - Prime number or not \*
 - Day 20 - Factorial of an integer \*
+- Day 21 - Largest number in an array \*
