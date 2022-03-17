@@ -22,3 +22,4 @@
 - Day 20 - Factorial of an integer \*
 - Day 21 - Largest number in an array \*
 - Day 22 - Number of consonents and vowels \*
+- Day 23 - Two strings are Anagrams or not \*
