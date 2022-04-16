@@ -23,3 +23,8 @@
 - Day 21 - Largest number in an array \*
 - Day 22 - Number of consonents and vowels \*
 - Day 23 - Two strings are Anagrams or not \*
+- Day 24 - Amstrong or not \*
+- Day 25 - Right triangle pattern \*
+- Day 26 - Rotate an array for n times \*
+- Day 27 - Putting multiples of 10 at the end of array \*
+- Day 28 - Count of unique numbers \*
