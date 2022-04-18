@@ -1,4 +1,4 @@
-> Write a program to find the count of numbers that consists of unique digits.
+> Write a program to find the unique digits in a number.
 
 Sample i/p:
 
