@@ -27,4 +27,6 @@
 - Day 25 - Right triangle pattern \*
 - Day 26 - Rotate an array for n times \*
 - Day 27 - Putting multiples of 10 at the end of array \*
-- Day 28 - Count of unique numbers \*
+- Day 28 - Count of unique digits in a number \*
+- Day 29 - Count of numbers in a range having repetitive digits \*
+- Day 30 - Fair calculation \*
